@@ -1,0 +1,77 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#grid {
+    border-collapse: collapse;
+}
+
+#grid td {
+    border: 1px grey solid;
+}
+
+.filled {
+    background-color: red;
+}
+
+#colorpicker {
+    position: absolute;
+    width: 120px;
+    height: 24px;
+    border: 1px grey solid;
+    padding: 0;
+    margin: 0;
+    left: 0px;
+    top: 0px;
+    background-color: white;
+    display: none;
+}
+
+.color {
+    margin: 2px;
+    float: left;
+    width: 18px;
+    height: 18px;
+    border: 1px grey solid;
+}
+
+#red {
+    background-color: red;
+}
+
+.red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+.green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+.blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+#purple {
+    background-color: purple;
+}
+
+.purple {
+    background-color: purple;
+}
